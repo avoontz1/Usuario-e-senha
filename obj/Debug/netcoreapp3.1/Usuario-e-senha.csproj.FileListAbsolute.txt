@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\bin\Debug\netcoreapp3.1\Usuario-e-senha.exe
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\bin\Debug\netcoreapp3.1\Usuario-e-senha.deps.json
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\bin\Debug\netcoreapp3.1\Usuario-e-senha.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\bin\Debug\netcoreapp3.1\Usuario-e-senha.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\bin\Debug\netcoreapp3.1\Usuario-e-senha.dll
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\bin\Debug\netcoreapp3.1\Usuario-e-senha.pdb
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.dll
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.pdb
+C:\Users\victo_000\Desktop\HTML\Usuario-e-senha\obj\Debug\netcoreapp3.1\Usuario-e-senha.genruntimeconfig.cache
